@@ -1,3 +1,4 @@
 temp/
 .xmake/
 build
+.vscode/settings.json
